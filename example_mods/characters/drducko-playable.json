@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "DuckoIdle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-25,
+				-12
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "DuckoDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-25,
+				-11
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "MissDuckoDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-33,
+				78
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "DuckoUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-17,
+				77
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "MissDuckoUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-38,
+				1
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "DuckoHey",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-13,
+				-1
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "DuckoRight",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-102,
+				1
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "DuckoLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				1
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "MissDuckoRight",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-97,
+				-2
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "MissDuckoLeft",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/p_ducko_assets",
+	"position": [
+		10,
+		120
+	],
+	"healthicon": "ducko",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		0
+	],
+	"camera_position": [
+		20,
+		-60
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

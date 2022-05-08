@@ -1,0 +1,18 @@
+{
+	"song": {
+		"speed": 1.4,
+		"stage": "duckobeta",
+		"player1": "bf",
+		"player2": "drducko",
+		"player3": null,
+		"events": [],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 112,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "Apple A Day Old"
+	}
+}

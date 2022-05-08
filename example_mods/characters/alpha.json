@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "alpha sean idle dance instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				38,
+				-5
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "alpha sean NOTE RIGHT instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-38,
+				-6
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "alpha sean NOTE LEFT instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				-50
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "alpha sean NOTE DOWN instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				29
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "alpha sean NOTE UP instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				28
+			],
+			"anim": "laugh",
+			"fps": 24,
+			"name": "laugh instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				-3
+			],
+			"anim": "sawcon",
+			"fps": 24,
+			"name": "saw con instance",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/alpha_assets",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "alpha",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

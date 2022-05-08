@@ -1,0 +1,52 @@
+{
+	"dialogue": [
+		{
+			"expression": "heh",
+			"text": "what the fuck where am i wasnt i just?",
+			"boxState": "normal",
+			"portrait": "ducko",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "omfgcalmtfdown",
+			"text": "wait bf why tf are u here?",
+			"boxState": "normal",
+			"portrait": "ducko",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "pissed",
+			"text": "skep bap bdaoghs.",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "lebruj",
+			"text": "Okay, I am dreaming. What the fuck is going on.",
+			"boxState": "normal",
+			"portrait": "ducko",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "confused",
+			"text": "Bitch who even knows.",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "talk",
+			"text": "BF speakin' some facts.",
+			"boxState": "normal",
+			"portrait": "ducko",
+			"speed": 0.05,
+			"sound": ""
+		}
+	]
+}

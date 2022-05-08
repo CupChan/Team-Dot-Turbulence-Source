@@ -1,0 +1,59 @@
+{
+	"song": {
+		"speed": 2.9,
+		"stage": "ducko-modernday",
+		"player1": "bf",
+		"player2": "drducko",
+		"player3": null,
+		"events": [
+			[
+				65828.5714285714,
+				[
+					[
+						"Change Character",
+						"BF",
+						"bf-fance"
+					],
+					[
+						"Change Character",
+						"1",
+						"drducko-fance"
+					],
+					[
+						"Change Character",
+						"2",
+						"blank"
+					],
+					[
+						"bgremove",
+						"amogus",
+						""
+					]
+				]
+			],
+			[
+				104228.571428571,
+				[
+					[
+						"BF Fade",
+						"0.5",
+						"0"
+					],
+					[
+						"Opponent Fade",
+						"0.5",
+						"1"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 175,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "Windy"
+	}
+}

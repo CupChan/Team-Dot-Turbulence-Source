@@ -1,0 +1,140 @@
+{
+	"dialogue": [
+		{
+			"expression": "shadowthehedgehog",
+			"text": "Ducko.////////// Ducko.",
+			"boxState": "normal",
+			"portrait": "alpha",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "shadowthehedgehog",
+			"text": "Ducko.////////// Ducko.",
+			"boxState": "normal",
+			"portrait": "alpha",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "shadowthehedgehog",
+			"text": "DuckoDuckoDuckoduckoduckoduckoduckduckudkcudkcuidciudcidudiupcoyulkcdadshjdhlkjdshflkjhjsahjkdfhjhdahjklsdfhjbjfhjkldsfhjklfadshjklhjkldsfahkljfdsa\\nwake",
+			"boxState": "normal",
+			"portrait": "alpha",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "heh",
+			"text": "Owwwwww. My heaaaad. Christ what time is it... Oh wait hi Alpha.",
+			"boxState": "normal",
+			"portrait": "ducko",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "smug",
+			"text": "Helo, why the duck where you on the floor? Passed out, for like a day.",
+			"boxState": "normal",
+			"portrait": "alpha",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "depresso-espresso",
+			"text": ".../////////////////////////what/////////////////////////////// wait hold on...",
+			"boxState": "normal",
+			"portrait": "ducko",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "tearsofjoy",
+			"text": "I AM FREE!!! NO MORE MONSTERS!!!",
+			"boxState": "normal",
+			"portrait": "ducko",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "sawcon",
+			"text": "What.",
+			"boxState": "normal",
+			"portrait": "alpha",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "tearsofjoy",
+			"text": "THERE WERE SO MANY! SO MANY OF THESE GOOP THINGS! I COULDN'T CATCH A BREAK!",
+			"boxState": "angry",
+			"portrait": "ducko",
+			"speed": 0.025,
+			"sound": ""
+		},
+		{
+			"expression": "tearsofjoy",
+			"text": "ONE WAS A SMALL CAT THING THAN RAN FASTER THAN DUCKING LIGHT! ONE HAD A SKULL MASK THING and was very nice very soft 10/10. ONE WAS A TAIL. A LITERAL TAIL. THERE WAS THIS WEIRD ASS SNOW LEPOARD! ONE WAS LIKE A SHARK WITH A TIGER PATTERN! ONE WAS A DOG BUT LIKE A SQUID WITH PAW TENTACLES! ONE OF THEM DIDN'T HAVE A FACE ONE HAD NO HEAD YOU DON'T UNDERSTAND!!!!!",
+			"boxState": "angry",
+			"portrait": "ducko",
+			"speed": 0.02,
+			"sound": ""
+		},
+		{
+			"expression": "talk",
+			"text": "Okay so first of all you need a professinal therapist... I'm gonna get you one, and second I wanna do something for ya.",
+			"boxState": "normal",
+			"portrait": "alpha",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "talk",
+			"text": "And what is that?",
+			"boxState": "normal",
+			"portrait": "ducko",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "talk",
+			"text": "*whispering_sounds.mp3*",
+			"boxState": "normal",
+			"portrait": "alpha",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "talk",
+			"text": "You cool with that?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "alpha"
+		},
+		{
+			"expression": "hey",
+			"text": "Yeah sure!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "ducko"
+		},
+		{
+			"expression": "transendance",
+			"text": "coolswag",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "ducko"
+		},
+		{
+			"expression": "sawcon",
+			"text": "coolswag",
+			"boxState": "normal",
+			"portrait": "alpha",
+			"speed": 0.05,
+			"sound": ""
+		}
+	]
+}

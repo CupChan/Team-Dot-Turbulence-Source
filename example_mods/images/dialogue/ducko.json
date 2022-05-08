@@ -1,0 +1,155 @@
+{
+	"position": [
+		120,
+		-10
+	],
+	"dialogue_pos": "left",
+	"no_antialiasing": false,
+	"scale": 1.4,
+	"image": "ducko",
+	"animations": [
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "ducko talk",
+			"loop_name": "ducko talk"
+		},
+		{
+			"loop_offsets": [
+				62,
+				28
+			],
+			"anim": "hey",
+			"idle_offsets": [
+				62,
+				28
+			],
+			"loop_name": "ducko hey",
+			"idle_name": "ducko hey"
+		},
+		{
+			"loop_offsets": [
+				28,
+				17
+			],
+			"anim": "heh",
+			"idle_offsets": [
+				28,
+				17
+			],
+			"loop_name": "ducko heh",
+			"idle_name": "ducko heh"
+		},
+		{
+			"loop_offsets": [
+				10,
+				9
+			],
+			"anim": "lebruj",
+			"idle_offsets": [
+				10,
+				9
+			],
+			"loop_name": "ducko lebruj",
+			"idle_name": "ducko lebruj"
+		},
+		{
+			"loop_offsets": [
+				24,
+				10
+			],
+			"anim": "what",
+			"idle_offsets": [
+				24,
+				10
+			],
+			"loop_name": "ducko what",
+			"idle_name": "ducko what"
+		},
+		{
+			"loop_offsets": [
+				9,
+				4
+			],
+			"anim": "angybaby",
+			"idle_offsets": [
+				9,
+				4
+			],
+			"loop_name": "ducko angybaby",
+			"idle_name": "ducko angybaby"
+		},
+		{
+			"loop_offsets": [
+				22,
+				5
+			],
+			"anim": "omfgcalmtfdown",
+			"idle_offsets": [
+				22,
+				5
+			],
+			"loop_name": "ducko omfgcalmtfdown",
+			"idle_name": "ducko omfgcalmtfdown"
+		},
+		{
+			"loop_offsets": [
+				12,
+				5
+			],
+			"anim": "depresso-espresso",
+			"idle_offsets": [
+				12,
+				5
+			],
+			"loop_name": "ducko depresso-espresso",
+			"idle_name": "ducko depresso-espresso"
+		},
+		{
+			"loop_offsets": [
+				20,
+				7
+			],
+			"anim": "youbitchcalmthefuckdown",
+			"idle_offsets": [
+				20,
+				7
+			],
+			"loop_name": "ducko youbitchcalmthefuckdown",
+			"idle_name": "ducko youbitchcalmthefuckdown"
+		},
+		{
+			"loop_offsets": [
+				3,
+				12
+			],
+			"anim": "tearsofjoy",
+			"idle_offsets": [
+				3,
+				12
+			],
+			"loop_name": "ducko tearsofjoy",
+			"idle_name": "ducko tearsofjoy"
+		},
+		{
+			"loop_offsets": [
+				30,
+				-40
+			],
+			"anim": "transendance",
+			"idle_offsets": [
+				30,
+				-40
+			],
+			"loop_name": "ducko transendance",
+			"idle_name": "ducko transendance"
+		}
+	]
+}

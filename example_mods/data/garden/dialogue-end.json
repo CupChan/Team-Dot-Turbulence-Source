@@ -1,0 +1,28 @@
+{
+	"dialogue": [
+		{
+			"expression": "shadowthehedgehog",
+			"text": "Hey Ducko! It's nice to see ya today I got your dr- op. You are dead...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "alpha"
+		},
+		{
+			"expression": "shadowthehedgehog",
+			"text": "Imma go grab a stick from outside and poke u.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "alpha"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "leblank",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "New Songs Avaliable In Freeplay!"
+		}
+	]
+}

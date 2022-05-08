@@ -1,0 +1,76 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		120,
+		100
+	],
+	"scale": 1.4,
+	"animations": [
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "thealphadialogue talk",
+			"loop_name": "thealphadialogue talk"
+		},
+		{
+			"idle_offsets": [
+				-20,
+				3
+			],
+			"anim": "sawcon",
+			"loop_offsets": [
+				-20,
+				3
+			],
+			"idle_name": "thealphadialogue sawcon",
+			"loop_name": "thealphadialogue sawcon"
+		},
+		{
+			"idle_offsets": [
+				-7,
+				30
+			],
+			"anim": "lol",
+			"loop_offsets": [
+				-7,
+				30
+			],
+			"idle_name": "thealphadialogue laugh",
+			"loop_name": "thealphadialogue laugh"
+		},
+		{
+			"idle_offsets": [
+				-24,
+				-3
+			],
+			"anim": "smug",
+			"loop_offsets": [
+				-24,
+				-3
+			],
+			"idle_name": "thealphadialogue this smug little bitch",
+			"loop_name": "thealphadialogue this smug little bitch"
+		},
+		{
+			"loop_name": "thealphadialogue shadow",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "thealphadialogue shadow",
+			"anim": "shadowthehedgehog",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "thealphadialogue"
+}

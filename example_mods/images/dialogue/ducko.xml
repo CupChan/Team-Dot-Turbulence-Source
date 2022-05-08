@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="ducko.png"><SubTexture name="ducko talk0000" x="705" y="0" width="334" height="629" frameX="0" frameY="0" frameWidth="334" frameHeight="629" />
+<SubTexture name="ducko hey0000" x="0" y="0" width="405" height="638" frameX="-7" frameY="-24" frameWidth="420" frameHeight="674" />
+<SubTexture name="ducko heh0000" x="335" y="638" width="337" height="629" frameX="-32" frameY="-20" frameWidth="389" frameHeight="667" />
+<SubTexture name="ducko lebruj0000" x="672" y="638" width="335" height="629" frameX="-12" frameY="-10" frameWidth="357" frameHeight="649" />
+<SubTexture name="ducko what0000" x="405" y="0" width="300" height="637" frameX="-25" frameY="-2" frameWidth="341" frameHeight="645" />
+<SubTexture name="ducko angybaby0000" x="1039" y="0" width="335" height="629" frameX="-10" frameY="-4" frameWidth="350" frameHeight="639" />
+<SubTexture name="ducko omfgcalmtfdown0000" x="1007" y="638" width="335" height="629" frameX="-25" frameY="-5" frameWidth="373" frameHeight="662" />
+<SubTexture name="ducko depresso-espresso0000" x="0" y="638" width="335" height="629" frameX="-13" frameY="-5" frameWidth="359" frameHeight="661" />
+<SubTexture name="ducko youbitchcalmthefuckdown0000" x="1374" y="629" width="335" height="627" frameX="-22" frameY="-10" frameWidth="373" frameHeight="650" />
+<SubTexture name="ducko tearsofjoy0000" x="1374" y="0" width="335" height="629" frameX="-3" frameY="-14" frameWidth="349" frameHeight="663" />
+<SubTexture name="ducko transendance0000" x="0" y="1267" width="630" height="346" frameX="-36" frameY="-16" frameWidth="674" frameHeight="400" />
+</TextureAtlas>

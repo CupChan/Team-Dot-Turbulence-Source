@@ -1,0 +1,58 @@
+{
+	"storyName": "Part 1: The Duck Man",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "ducko",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Apple A Day",
+			"ducko",
+			[
+				235,
+				235,
+				80
+			]
+		],
+		[
+			"Pond",
+			"ducko",
+			[
+				235,
+				235,
+				80
+			]
+		],
+		[
+			"Windy",
+			"ducko",
+			[
+				235,
+				235,
+				80
+			]
+		],
+		[
+			"Garden",
+			"ducko",
+			[
+				235,
+				235,
+				80
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "Vs. DrDucko"
+}

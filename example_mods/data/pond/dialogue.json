@@ -1,0 +1,104 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "...",
+			"boxState": "normal",
+			"portrait": "ducko",
+			"speed": 0.05
+		},
+		{
+			"expression": "lebruj",
+			"text": "Okay, I lost, I don't really care to be honest, can you just leave now?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "ducko"
+		},
+		{
+			"expression": "talk",
+			"text": "Beep boop.",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "heh",
+			"text": "Another one?",
+			"boxState": "normal",
+			"portrait": "ducko",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "heh",
+			"text": "Uhm, Mabye this one?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "ducko"
+		},
+		{
+			"expression": "excited",
+			"text": "Bep Bebopai Blepo.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "Ok cool.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "ducko"
+		},
+		{
+			"expression": "heh",
+			"text": "(Alright calm the fuck down Ducko, just try, anything is better then thinking about how they got here.)",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "ducko"
+		},
+		{
+			"expression": "talk",
+			"text": "Oh, before we start.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "ducko"
+		},
+		{
+			"expression": "heh",
+			"text": "Why are you like this?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "ducko"
+		},
+		{
+			"expression": "talk",
+			"text": "Bep bai.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "lebruj",
+			"text": "Le bruj.",
+			"boxState": "normal",
+			"portrait": "ducko",
+			"speed": 0.05
+		}
+	]
+}

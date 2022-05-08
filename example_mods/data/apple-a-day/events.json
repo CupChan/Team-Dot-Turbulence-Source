@@ -1,0 +1,29 @@
+{
+	"song": {
+		"speed": 1.6,
+		"stage": "ducko",
+		"player1": "bf",
+		"player2": "drducko",
+		"player3": null,
+		"events": [
+			[
+				76607.1428571429,
+				[
+					[
+						"Hey!",
+						"Both",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 112,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "Apple A Day"
+	}
+}

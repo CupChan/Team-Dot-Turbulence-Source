@@ -1,0 +1,61 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "Bep boop.",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "heh",
+			"text": "Uhhhh. What the heck? What was that portal thing?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "ducko"
+		},
+		{
+			"expression": "talk",
+			"text": "Blop bep bopbo sklepe breap boop.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "what",
+			"text": "(Brain.exe has stopped responding)",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "ducko"
+		},
+		{
+			"expression": "talk",
+			"text": "Bap boop beep bap bep bai boop be bo bay baip, beep bop.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "heh",
+			"text": "Combining the fact you have a microphone and one came out of the portal, I guess you would like to sing or whatever?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "ducko"
+		},
+		{
+			"expression": "excited",
+			"text": "Skebep!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "heh",
+			"text": "Alright. Uhm, I'll try.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "ducko"
+		}
+	]
+}

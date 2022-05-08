@@ -1,0 +1,76 @@
+{
+	"dialogue_pos": "center",
+	"position": [
+		160,
+		0
+	],
+	"scale": 1.4,
+	"animations": [
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "default",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "Ducko Default instance 1",
+			"loop_name": "Ducko Default instance 1"
+		},
+		{
+			"idle_offsets": [
+				-3,
+				0
+			],
+			"anim": "what",
+			"loop_offsets": [
+				-3,
+				0
+			],
+			"idle_name": "Ducko Alt instance 1",
+			"loop_name": "Ducko Alt instance 1"
+		},
+		{
+			"idle_offsets": [
+				-3,
+				0
+			],
+			"anim": "smug",
+			"loop_offsets": [
+				-3,
+				0
+			],
+			"idle_name": "Ducko Nervous Enter instance 1",
+			"loop_name": "Ducko Nervous Enter instance 1"
+		},
+		{
+			"idle_offsets": [
+				0,
+				3
+			],
+			"anim": "hey",
+			"loop_offsets": [
+				0,
+				3
+			],
+			"idle_name": "Ducko Ghost Enter instance 1",
+			"loop_name": "Ducko Ghost Enter instance 1"
+		},
+		{
+			"idle_offsets": [
+				-13,
+				0
+			],
+			"anim": "bitchwhatthefuck",
+			"loop_offsets": [
+				-13,
+				0
+			],
+			"idle_name": "Ducko Dippy Enter instance 1",
+			"loop_name": "Ducko Dippy Enter instance 1"
+		}
+	],
+	"image": "leblank"
+}

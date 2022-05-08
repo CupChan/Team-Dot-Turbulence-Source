@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="cursed_Ducko.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="DuckoDown0000" x="100" y="100" width="298" height="285" frameX="-11" frameY="-34" frameWidth="309" frameHeight="319"/>
+	<SubTexture name="DuckoDown0001" x="100" y="100" width="298" height="285" frameX="-11" frameY="-34" frameWidth="309" frameHeight="319"/>
+	<SubTexture name="DuckoDown0002" x="498" y="100" width="303" height="310" frameX="0" frameY="-1" frameWidth="309" frameHeight="319"/>
+	<SubTexture name="DuckoDown0003" x="498" y="100" width="303" height="310" frameX="0" frameY="-1" frameWidth="309" frameHeight="319"/>
+	<SubTexture name="DuckoDown0004" x="901" y="100" width="299" height="311" frameX="0" frameY="0" frameWidth="309" frameHeight="319"/>
+	<SubTexture name="DuckoDown0005" x="901" y="100" width="299" height="311" frameX="0" frameY="0" frameWidth="309" frameHeight="319"/>
+	<SubTexture name="DuckoDown0006" x="901" y="100" width="299" height="311" frameX="0" frameY="0" frameWidth="309" frameHeight="319"/>
+	<SubTexture name="DuckoDown0007" x="901" y="100" width="299" height="311" frameX="0" frameY="0" frameWidth="309" frameHeight="319"/>
+	<SubTexture name="DuckoIdle0000" x="1300" y="100" width="281" height="328" frameX="-17" frameY="-34" frameWidth="321" frameHeight="362"/>
+	<SubTexture name="DuckoIdle0001" x="1300" y="100" width="281" height="328" frameX="-17" frameY="-34" frameWidth="321" frameHeight="362"/>
+	<SubTexture name="DuckoIdle0002" x="1681" y="100" width="292" height="319" frameX="-15" frameY="-42" frameWidth="321" frameHeight="362"/>
+	<SubTexture name="DuckoIdle0003" x="1681" y="100" width="292" height="319" frameX="-15" frameY="-42" frameWidth="321" frameHeight="362"/>
+	<SubTexture name="DuckoIdle0004" x="2073" y="100" width="305" height="320" frameX="-7" frameY="-39" frameWidth="321" frameHeight="362"/>
+	<SubTexture name="DuckoIdle0005" x="2073" y="100" width="305" height="320" frameX="-7" frameY="-39" frameWidth="321" frameHeight="362"/>
+	<SubTexture name="DuckoIdle0006" x="2478" y="100" width="298" height="348" frameX="0" frameY="-11" frameWidth="321" frameHeight="362"/>
+	<SubTexture name="DuckoIdle0007" x="2478" y="100" width="298" height="348" frameX="0" frameY="-11" frameWidth="321" frameHeight="362"/>
+	<SubTexture name="DuckoIdle0008" x="2876" y="100" width="297" height="359" frameX="-8" frameY="0" frameWidth="321" frameHeight="362"/>
+	<SubTexture name="DuckoIdle0009" x="2876" y="100" width="297" height="359" frameX="-8" frameY="0" frameWidth="321" frameHeight="362"/>
+	<SubTexture name="DuckoIdle0010" x="3273" y="100" width="307" height="356" frameX="-8" frameY="-3" frameWidth="321" frameHeight="362"/>
+	<SubTexture name="DuckoIdle0011" x="3273" y="100" width="307" height="356" frameX="-8" frameY="-3" frameWidth="321" frameHeight="362"/>
+	<SubTexture name="DuckoIdle0012" x="3680" y="100" width="313" height="348" frameX="-8" frameY="-11" frameWidth="321" frameHeight="362"/>
+	<SubTexture name="DuckoIdle0013" x="3680" y="100" width="313" height="348" frameX="-8" frameY="-11" frameWidth="321" frameHeight="362"/>
+	<SubTexture name="DuckoLeft0000" x="100" y="559" width="314" height="262" frameX="-1" frameY="-24" frameWidth="319" frameHeight="287"/>
+	<SubTexture name="DuckoLeft0001" x="100" y="559" width="314" height="262" frameX="-1" frameY="-24" frameWidth="319" frameHeight="287"/>
+	<SubTexture name="DuckoLeft0002" x="514" y="559" width="319" height="287"/>
+	<SubTexture name="DuckoLeft0003" x="514" y="559" width="319" height="287"/>
+	<SubTexture name="DuckoLeft0004" x="933" y="559" width="318" height="283" frameX="0" frameY="-4" frameWidth="319" frameHeight="287"/>
+	<SubTexture name="DuckoLeft0005" x="933" y="559" width="318" height="283" frameX="0" frameY="-4" frameWidth="319" frameHeight="287"/>
+	<SubTexture name="DuckoLeft0006" x="933" y="559" width="318" height="283" frameX="0" frameY="-4" frameWidth="319" frameHeight="287"/>
+	<SubTexture name="DuckoLeft0007" x="933" y="559" width="318" height="283" frameX="0" frameY="-4" frameWidth="319" frameHeight="287"/>
+	<SubTexture name="DuckoRight0000" x="1351" y="559" width="304" height="286" frameX="-4" frameY="0" frameWidth="308" frameHeight="298"/>
+	<SubTexture name="DuckoRight0001" x="1351" y="559" width="304" height="286" frameX="-4" frameY="0" frameWidth="308" frameHeight="298"/>
+	<SubTexture name="DuckoRight0002" x="1755" y="559" width="305" height="286" frameX="0" frameY="-12" frameWidth="308" frameHeight="298"/>
+	<SubTexture name="DuckoRight0003" x="1755" y="559" width="305" height="286" frameX="0" frameY="-12" frameWidth="308" frameHeight="298"/>
+	<SubTexture name="DuckoRight0004" x="2160" y="559" width="305" height="290" frameX="0" frameY="-8" frameWidth="308" frameHeight="298"/>
+	<SubTexture name="DuckoRight0005" x="2160" y="559" width="305" height="290" frameX="0" frameY="-8" frameWidth="308" frameHeight="298"/>
+	<SubTexture name="DuckoRight0006" x="2160" y="559" width="305" height="290" frameX="0" frameY="-8" frameWidth="308" frameHeight="298"/>
+	<SubTexture name="DuckoRight0007" x="2160" y="559" width="305" height="290" frameX="0" frameY="-8" frameWidth="308" frameHeight="298"/>
+	<SubTexture name="DuckoUp0000" x="2565" y="559" width="310" height="293" frameX="0" frameY="0" frameWidth="319" frameHeight="303"/>
+	<SubTexture name="DuckoUp0001" x="2565" y="559" width="310" height="293" frameX="0" frameY="0" frameWidth="319" frameHeight="303"/>
+	<SubTexture name="DuckoUp0002" x="2975" y="559" width="315" height="278" frameX="-4" frameY="-25" frameWidth="319" frameHeight="303"/>
+	<SubTexture name="DuckoUp0003" x="2975" y="559" width="315" height="278" frameX="-4" frameY="-25" frameWidth="319" frameHeight="303"/>
+	<SubTexture name="DuckoUp0004" x="3390" y="559" width="315" height="286" frameX="-4" frameY="-17" frameWidth="319" frameHeight="303"/>
+	<SubTexture name="DuckoUp0005" x="3390" y="559" width="315" height="286" frameX="-4" frameY="-17" frameWidth="319" frameHeight="303"/>
+	<SubTexture name="DuckoUp0006" x="3390" y="559" width="315" height="286" frameX="-4" frameY="-17" frameWidth="319" frameHeight="303"/>
+	<SubTexture name="DuckoUp0007" x="3390" y="559" width="315" height="286" frameX="-4" frameY="-17" frameWidth="319" frameHeight="303"/>
+</TextureAtlas>

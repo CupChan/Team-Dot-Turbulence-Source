@@ -1,0 +1,209 @@
+{
+	"dialogue": [
+		{
+			"expression": "angybaby",
+			"text": "Ok, I'm done.",
+			"boxState": "normal",
+			"portrait": "ducko",
+			"speed": 0.05
+		},
+		{
+			"expression": "angybaby",
+			"text": "Are you done?",
+			"boxState": "normal",
+			"portrait": "ducko",
+			"speed": 0.05
+		},
+		{
+			"expression": "pissed",
+			"text": "Beepaa beepbop skdoo skbep  brep bopo skbep skdoo bep  skdoo skbep  bop be bap skdoo bappity bapboop  beep skbep skbep beepbop skdoo beepaa.",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.02
+		},
+		{
+			"expression": "talk",
+			"text": "Yeah, Boyfriend is right.",
+			"boxState": "normal",
+			"portrait": "gf",
+			"speed": 0.05
+		},
+		{
+			"expression": "heh",
+			"text": "Hold up what?",
+			"boxState": "normal",
+			"portrait": "ducko",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "(Your music is boring as shit.)",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "heh",
+			"text": "What did he say? I've been assuming this whole time so uh. My knowlege of this situation is less than a negative number.",
+			"boxState": "normal",
+			"portrait": "ducko",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "Your music is boring as shit.",
+			"boxState": "normal",
+			"portrait": "gf",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "Beeop Bai.",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "Blep Boo Boop.",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "lebruj",
+			"text": "You really want another one?",
+			"boxState": "normal",
+			"portrait": "ducko",
+			"speed": 0.05
+		},
+		{
+			"expression": "angybaby",
+			"text": "You obviously don't like the music so what the fuck is your deal?",
+			"boxState": "normal",
+			"portrait": "ducko",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "Brerorp.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "angybaby",
+			"text": "Are you okay? Are you stable? Do you need help?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "ducko"
+		},
+		{
+			"expression": "omfgcalmtfdown",
+			"text": "Because you should really stop your singing shi-",
+			"boxState": "normal",
+			"portrait": "ducko",
+			"speed": 0.05
+		},
+		{
+			"expression": "default",
+			"text": "STOP TALKING TO YOURSELF YOU FUCKING COSPLAYING FURRY! I GOTTA WAKE UP AT SIX IN THE FUCKING MORNING!!!",
+			"boxState": "angry",
+			"portrait": "leblank",
+			"speed": 0.025
+		},
+		{
+			"expression": "youbitchcalmthefuckdown",
+			"text": "...",
+			"boxState": "normal",
+			"portrait": "ducko",
+			"speed": 0.3
+		},
+		{
+			"expression": "confused",
+			"text": "...",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.3
+		},
+		{
+			"expression": "confused",
+			"text": "(And why is he sad about that?)",
+			"boxState": "normal",
+			"portrait": "gf",
+			"speed": 0.0499999999999998
+		},
+		{
+			"expression": "angybaby",
+			"text": "Let's just.",
+			"boxState": "normal",
+			"portrait": "ducko",
+			"speed": 0.05
+		},
+		{
+			"expression": "omfgcalmtfdown",
+			"text": "Move on.",
+			"boxState": "normal",
+			"portrait": "ducko",
+			"speed": 0.05
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "ducko",
+			"boxState": "normal",
+			"expression": "omfgcalmtfdown",
+			"text": "(Max... may god strike thou down cause fucking hell leave me alone, I just wanna do my fucking own thing but NOOooOOoOoOO! I gotta fucking sing these songs.)"
+		},
+		{
+			"expression": "talk",
+			"text": "OH I HEARD THAT! HELL NO, YOU WILL NOT DRAG ME DOWN THERE I AM NOT JOINING YOU!",
+			"boxState": "angry",
+			"speed": 0.025,
+			"portrait": "leblank"
+		},
+		{
+			"expression": "omfgcalmtfdown",
+			"text": "Oh you better shut up now before I force you! ALSO THAT'S NOT WHAT I DUCKING MEANT!",
+			"boxState": "angry",
+			"speed": 0.025,
+			"portrait": "ducko"
+		},
+		{
+			"expression": "confused",
+			"text": "u good my guy?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "omfgcalmtfdown",
+			"text": "NOTHING IS GOOD RIGHT NOW!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "ducko"
+		},
+		{
+			"expression": "shocked",
+			"text": "BEEP SKEP!",
+			"boxState": "angry",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "pissed",
+			"text": "Skwep baptiy bip beopua!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "angybaby",
+			"text": "Fine. Let's get this done and over with!",
+			"boxState": "normal",
+			"portrait": "ducko",
+			"speed": 0.05,
+			"sound": ""
+		}
+	]
+}

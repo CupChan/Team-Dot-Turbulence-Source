@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="sidebar.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="side bar0000" x="100" y="100" width="861" height="730"/>
+	<SubTexture name="side bar0001" x="1061" y="100" width="861" height="730"/>
+	<SubTexture name="side bar0002" x="100" y="930" width="861" height="730"/>
+</TextureAtlas>

@@ -1,0 +1,29 @@
+{
+	"song": {
+		"speed": 1.4,
+		"stage": "ducko-modernday",
+		"player1": "drducko-chill-playable",
+		"player2": "blank",
+		"player3": null,
+		"events": [
+			[
+				202909.090909091,
+				[
+					[
+						"Alt Idle Animation",
+						"BF",
+						"-alt"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "DuckoSplashes",
+		"validScore": false,
+		"gfVersion": "gf2",
+		"bpm": 110,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "Garden"
+	}
+}

@@ -1,0 +1,41 @@
+{
+	"storyName": "slab amogusadsfsdfa",
+	"difficulties": "Normal, Hard",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "dotweek1",
+	"startUnlocked": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Apple A Day Old",
+			"ducko",
+			[
+				235,
+				235,
+				80
+			]
+		],
+		[
+			"Version Alpha",
+			"secret",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"hiddenUntilUnlocked": true,
+	"weekName": "Monsiu"
+}

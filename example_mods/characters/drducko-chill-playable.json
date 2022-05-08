@@ -1,0 +1,177 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "DuckoIdle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-19,
+				0
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "DuckoHey",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-1,
+				-14
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "DuckoDown0"
+		},
+		{
+			"offsets": [
+				1,
+				-12
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "DuckoDown MISS"
+		},
+		{
+			"offsets": [
+				-63,
+				78
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "DuckoUp0"
+		},
+		{
+			"offsets": [
+				2,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "DuckoRight0"
+		},
+		{
+			"offsets": [
+				0,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "DuckoRight MISS"
+		},
+		{
+			"offsets": [
+				-72,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "DuckoLeft0"
+		},
+		{
+			"offsets": [
+				-50,
+				74
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "DuckoUp MISS"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-67,
+				-2
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "DuckoLeft MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				178,
+				-410
+			],
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "DuckoDed",
+			"indices": []
+		},
+		{
+			"offsets": [
+				342,
+				39
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "Ducko dies"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				342,
+				-284
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "Ducko Dead con",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				358,
+				-422
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "Ducko Dead L",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/p_ducko_chill_assets",
+	"position": [
+		10,
+		120
+	],
+	"healthicon": "ducko",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		0
+	],
+	"camera_position": [
+		270,
+		70
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

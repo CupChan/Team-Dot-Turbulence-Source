@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="cacapoopyshatfarty.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="SeanDown0000" x="100" y="100" width="372" height="589" frameX="0" frameY="-35" frameWidth="372" frameHeight="624"/>
+	<SubTexture name="SeanDown0001" x="100" y="100" width="372" height="589" frameX="0" frameY="-35" frameWidth="372" frameHeight="624"/>
+	<SubTexture name="SeanDown0002" x="572" y="100" width="362" height="624" frameX="-2" frameY="0" frameWidth="372" frameHeight="624"/>
+	<SubTexture name="SeanDown0003" x="572" y="100" width="362" height="624" frameX="-2" frameY="0" frameWidth="372" frameHeight="624"/>
+	<SubTexture name="SeanDown0004" x="1034" y="100" width="362" height="613" frameX="-2" frameY="-11" frameWidth="372" frameHeight="624"/>
+	<SubTexture name="SeanDown0005" x="1034" y="100" width="362" height="613" frameX="-2" frameY="-11" frameWidth="372" frameHeight="624"/>
+	<SubTexture name="SeanDown0006" x="1034" y="100" width="362" height="613" frameX="-2" frameY="-11" frameWidth="372" frameHeight="624"/>
+	<SubTexture name="SeanDown0007" x="1034" y="100" width="362" height="613" frameX="-2" frameY="-11" frameWidth="372" frameHeight="624"/>
+	<SubTexture name="SeanHey0000" x="1496" y="100" width="407" height="638" frameX="-2" frameY="0" frameWidth="410" frameHeight="638"/>
+	<SubTexture name="SeanHey0001" x="1496" y="100" width="407" height="638" frameX="-2" frameY="0" frameWidth="410" frameHeight="638"/>
+	<SubTexture name="SeanHey0002" x="2003" y="100" width="410" height="630" frameX="0" frameY="-8" frameWidth="410" frameHeight="638"/>
+	<SubTexture name="SeanHey0003" x="2003" y="100" width="410" height="630" frameX="0" frameY="-8" frameWidth="410" frameHeight="638"/>
+	<SubTexture name="SeanHey0004" x="2513" y="100" width="410" height="629" frameX="0" frameY="-9" frameWidth="410" frameHeight="638"/>
+	<SubTexture name="SeanHey0005" x="2513" y="100" width="410" height="629" frameX="0" frameY="-9" frameWidth="410" frameHeight="638"/>
+	<SubTexture name="SeanHey0006" x="3023" y="100" width="410" height="629" frameX="0" frameY="-9" frameWidth="410" frameHeight="638"/>
+	<SubTexture name="SeanHey0007" x="3023" y="100" width="410" height="629" frameX="0" frameY="-9" frameWidth="410" frameHeight="638"/>
+	<SubTexture name="SeanHey0008" x="3023" y="100" width="410" height="629" frameX="0" frameY="-9" frameWidth="410" frameHeight="638"/>
+	<SubTexture name="SeanHey0009" x="3023" y="100" width="410" height="629" frameX="0" frameY="-9" frameWidth="410" frameHeight="638"/>
+	<SubTexture name="SeanHey0010" x="3023" y="100" width="410" height="629" frameX="0" frameY="-9" frameWidth="410" frameHeight="638"/>
+	<SubTexture name="SeanHey0011" x="3023" y="100" width="410" height="629" frameX="0" frameY="-9" frameWidth="410" frameHeight="638"/>
+	<SubTexture name="SeanIdle0000" x="3533" y="100" width="388" height="602" frameX="0" frameY="-36" frameWidth="390" frameHeight="638"/>
+	<SubTexture name="SeanIdle0001" x="3533" y="100" width="388" height="602" frameX="0" frameY="-36" frameWidth="390" frameHeight="638"/>
+	<SubTexture name="SeanIdle0002" x="100" y="838" width="390" height="602" frameX="0" frameY="-36" frameWidth="390" frameHeight="638"/>
+	<SubTexture name="SeanIdle0003" x="100" y="838" width="390" height="602" frameX="0" frameY="-36" frameWidth="390" frameHeight="638"/>
+	<SubTexture name="SeanIdle0004" x="590" y="838" width="374" height="609" frameX="-4" frameY="-29" frameWidth="390" frameHeight="638"/>
+	<SubTexture name="SeanIdle0005" x="590" y="838" width="374" height="609" frameX="-4" frameY="-29" frameWidth="390" frameHeight="638"/>
+	<SubTexture name="SeanIdle0006" x="1064" y="838" width="348" height="623" frameX="-6" frameY="-15" frameWidth="390" frameHeight="638"/>
+	<SubTexture name="SeanIdle0007" x="1064" y="838" width="348" height="623" frameX="-6" frameY="-15" frameWidth="390" frameHeight="638"/>
+	<SubTexture name="SeanIdle0008" x="1512" y="838" width="345" height="638" frameX="-7" frameY="0" frameWidth="390" frameHeight="638"/>
+	<SubTexture name="SeanIdle0009" x="1512" y="838" width="345" height="638" frameX="-7" frameY="0" frameWidth="390" frameHeight="638"/>
+	<SubTexture name="SeanIdle0010" x="1957" y="838" width="345" height="637" frameX="-7" frameY="-1" frameWidth="390" frameHeight="638"/>
+	<SubTexture name="SeanIdle0011" x="1957" y="838" width="345" height="637" frameX="-7" frameY="-1" frameWidth="390" frameHeight="638"/>
+	<SubTexture name="SeanIdle0012" x="2402" y="838" width="345" height="629" frameX="-7" frameY="-9" frameWidth="390" frameHeight="638"/>
+	<SubTexture name="SeanIdle0013" x="2402" y="838" width="345" height="629" frameX="-7" frameY="-9" frameWidth="390" frameHeight="638"/>
+	<SubTexture name="SeanLeft0000" x="2847" y="838" width="306" height="623" frameX="0" frameY="-17" frameWidth="306" frameHeight="640"/>
+	<SubTexture name="SeanLeft0001" x="2847" y="838" width="306" height="623" frameX="0" frameY="-17" frameWidth="306" frameHeight="640"/>
+	<SubTexture name="SeanLeft0002" x="3253" y="838" width="299" height="640" frameX="-7" frameY="0" frameWidth="306" frameHeight="640"/>
+	<SubTexture name="SeanLeft0003" x="3253" y="838" width="299" height="640" frameX="-7" frameY="0" frameWidth="306" frameHeight="640"/>
+	<SubTexture name="SeanLeft0004" x="3652" y="838" width="299" height="636" frameX="-7" frameY="-4" frameWidth="306" frameHeight="640"/>
+	<SubTexture name="SeanLeft0005" x="3652" y="838" width="299" height="636" frameX="-7" frameY="-4" frameWidth="306" frameHeight="640"/>
+	<SubTexture name="SeanLeft0006" x="3652" y="838" width="299" height="636" frameX="-7" frameY="-4" frameWidth="306" frameHeight="640"/>
+	<SubTexture name="SeanLeft0007" x="3652" y="838" width="299" height="636" frameX="-7" frameY="-4" frameWidth="306" frameHeight="640"/>
+	<SubTexture name="SeanRight0000" x="100" y="1578" width="374" height="637" frameX="-1" frameY="0" frameWidth="375" frameHeight="637"/>
+	<SubTexture name="SeanRight0001" x="100" y="1578" width="374" height="637" frameX="-1" frameY="0" frameWidth="375" frameHeight="637"/>
+	<SubTexture name="SeanRight0002" x="574" y="1578" width="368" height="624" frameX="0" frameY="-13" frameWidth="375" frameHeight="637"/>
+	<SubTexture name="SeanRight0003" x="574" y="1578" width="368" height="624" frameX="0" frameY="-13" frameWidth="375" frameHeight="637"/>
+	<SubTexture name="SeanRight0004" x="1042" y="1578" width="368" height="629" frameX="0" frameY="-8" frameWidth="375" frameHeight="637"/>
+	<SubTexture name="SeanRight0005" x="1042" y="1578" width="368" height="629" frameX="0" frameY="-8" frameWidth="375" frameHeight="637"/>
+	<SubTexture name="SeanRight0006" x="1042" y="1578" width="368" height="629" frameX="0" frameY="-8" frameWidth="375" frameHeight="637"/>
+	<SubTexture name="SeanRight0007" x="1042" y="1578" width="368" height="629" frameX="0" frameY="-8" frameWidth="375" frameHeight="637"/>
+	<SubTexture name="SeanUp0000" x="1510" y="1578" width="345" height="717" frameX="0" frameY="0" frameWidth="349" frameHeight="717"/>
+	<SubTexture name="SeanUp0001" x="1510" y="1578" width="345" height="717" frameX="0" frameY="0" frameWidth="349" frameHeight="717"/>
+	<SubTexture name="SeanUp0002" x="1955" y="1578" width="346" height="691" frameX="-3" frameY="-26" frameWidth="349" frameHeight="717"/>
+	<SubTexture name="SeanUp0003" x="1955" y="1578" width="346" height="691" frameX="-3" frameY="-26" frameWidth="349" frameHeight="717"/>
+	<SubTexture name="SeanUp0004" x="2401" y="1578" width="346" height="699" frameX="-3" frameY="-18" frameWidth="349" frameHeight="717"/>
+	<SubTexture name="SeanUp0005" x="2401" y="1578" width="346" height="699" frameX="-3" frameY="-18" frameWidth="349" frameHeight="717"/>
+	<SubTexture name="SeanUp0006" x="2401" y="1578" width="346" height="699" frameX="-3" frameY="-18" frameWidth="349" frameHeight="717"/>
+	<SubTexture name="SeanUp0007" x="2401" y="1578" width="346" height="699" frameX="-3" frameY="-18" frameWidth="349" frameHeight="717"/>
+</TextureAtlas>

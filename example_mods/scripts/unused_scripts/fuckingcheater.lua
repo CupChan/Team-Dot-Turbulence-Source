@@ -1,0 +1,3 @@
+function onUpdate()
+            setTextString('botplayTxt', 'You fucking cheater! I fucking hate you I spent so long charting this and youre just gonna botplay it? Really? I fucking hate you imma fuck your mother now so I can disown you. Oh you wanna cancel me smelly twitter? HUH!? Wow youre a basic bitch. You got no style. No rythm, bitch you shouldnt even be playing mods! You cant tap arrows to the beat? Pathetic. Fucking baby. "Go Back To Your Crib" Tankman 2021, do what the tankguy says bitch. Ducko 2022')
+end

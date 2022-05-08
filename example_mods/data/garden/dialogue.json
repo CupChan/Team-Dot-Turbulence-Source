@@ -1,0 +1,210 @@
+{
+	"dialogue": [
+		{
+			"expression": "excited",
+			"text": "Brep brop bepaop baep!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "excited",
+			"text": "Beep skelop bep bopo bee bai!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "You two did wonderful! And he liked the song this time!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "heh",
+			"text": "Really?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "ducko"
+		},
+		{
+			"expression": "talk",
+			"text": "Beep!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "lebruj",
+			"text": "Cool.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "ducko"
+		},
+		{
+			"expression": "talk",
+			"text": "Well, we will be going now. It's not like anyone is about to enter your room through the really convinent door right next to the hallway to ask what the fuck you're doing. Right?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "default",
+			"text": "Ducko the fuck are you doing and why are you talking,",
+			"boxState": "normal",
+			"speed": 0.04,
+			"portrait": "leblank"
+		},
+		{
+			"expression": "confused",
+			"text": "To your... Self...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "leblank"
+		},
+		{
+			"expression": "lebruj",
+			"text": "hi caleb...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "ducko"
+		},
+		{
+			"expression": "dippy",
+			"text": "Que en el Republica Dominicana es eso?!",
+			"boxState": "angry",
+			"speed": 0.05,
+			"portrait": "leblank"
+		},
+		{
+			"expression": "talk",
+			"text": "Bep.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "Have you called the 'ops yet?",
+			"boxState": "normal",
+			"portrait": "leblank",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "No I haven't. I don't even ducking know how they got here! All I was doing was gardening and waiting for my stuff then he just, appeared there.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "ducko"
+		},
+		{
+			"expression": "talk",
+			"text": "Yep. Uh... Yeah that's uh, that's what happened.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "Ok look, I don't need this right now, my drinks should be here and stuff bring this to your room Caleb.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "ducko"
+		},
+		{
+			"expression": "dippy",
+			"text": "Alright.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "leblank"
+		},
+		{
+			"expression": "talk",
+			"text": "Guess you'll be here for a while...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "ducko"
+		},
+		{
+			"expression": "talk",
+			"text": "coolswag",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "dippy",
+			"text": "buf and guf leave to go deal with caleb, oh wait theres more dialouge oh shi-",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "leblank"
+		},
+		{
+			"expression": "angybaby",
+			"text": "Ok, they're gone, they're ducking gone. Now I can get my dri-",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "ducko"
+		},
+		{
+			"expression": "what",
+			"text": "Oh motherducker the driver is stuck in traffic. God what the heck.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "ducko"
+		},
+		{
+			"expression": "angybaby",
+			"text": "Like really what is my luck here? A blue boy breaks in, makes me sing, insults me, I also got called a damn furry infront of him so goddamn. And he isn't wrong.",
+			"boxState": "normal",
+			"portrait": "ducko",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "omfgcalmtfdown",
+			"text": "And now I don't even get my non-sponsored, off brand Sparkling Ice: Flavored Water known as Sparkling Frost for another 4 minutes?",
+			"boxState": "angry",
+			"sound": "",
+			"speed": 0.025,
+			"portrait": "ducko"
+		},
+		{
+			"expression": "talk",
+			"text": "Guess that means I can sing by myself.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "ducko"
+		},
+		{
+			"expression": "talk",
+			"text": "Huh,",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "ducko"
+		},
+		{
+			"expression": "haha fuck u",
+			"text": "Neat.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "ducko"
+		},
+		{
+			"expression": "bitchwhatthefuck",
+			"text": "NOOOOO, you can't put a Dorkly refrence in your dialouge and expect people to go haha funni refrence!",
+			"boxState": "angry",
+			"speed": 0.03,
+			"portrait": "leblank"
+		},
+		{
+			"expression": "lebruj",
+			"text": "bruj.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "ducko"
+		}
+	]
+}

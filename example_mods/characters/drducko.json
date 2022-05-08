@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "DuckoIdle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				23,
+				2
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "DuckoLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				-14
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "DuckoDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-3,
+				80
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "DuckoUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "DuckoRight",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				63,
+				0
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "DuckoHey",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/ducko_assets",
+	"position": [
+		10,
+		100
+	],
+	"healthicon": "ducko",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		0
+	],
+	"camera_position": [
+		20,
+		-60
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

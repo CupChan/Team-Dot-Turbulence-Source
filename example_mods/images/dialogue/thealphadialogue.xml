@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="thealphadialogue.png"><SubTexture name="thealphadialogue laugh0000" x="0" y="0" width="369" height="446" frameX="0" frameY="0" frameWidth="369" frameHeight="446" />
+<SubTexture name="thealphadialogue sawcon0000" x="0" y="446" width="441" height="405" frameX="0" frameY="0" frameWidth="441" frameHeight="405" />
+<SubTexture name="thealphadialogue talk0000" x="369" y="0" width="408" height="412" frameX="0" frameY="0" frameWidth="408" frameHeight="412" />
+<SubTexture name="thealphadialogue this smug little bitch0000" x="441" y="446" width="383" height="405" frameX="0" frameY="-1" frameWidth="383" frameHeight="406" />
+<SubTexture name="thealphadialogue shadow0000" x="777" y="0" width="408" height="412" frameX="0" frameY="0" frameWidth="408" frameHeight="412" />
+</TextureAtlas>
